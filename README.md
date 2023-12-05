@@ -1,6 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br>Hi 👋, I'm Rishil Patel<br>Highly skilled Java Backend Developer with extensive experience in Spring Boot, Java, and backend architecture. Proficient in Frontend technologies including HTML, CSS, and JavaScript, with a focus on Angular and Tailwind CSS. Skilled in Data Structures and Algorithms (DSA) and proficient in Generative AI.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, Spring Boot, Angular and MySQL.<br><br>📫 How to reach me rishilpatel157@gmail.com<br>
-<br>📄 Know about my experiences 1. https://drive.google.com/drive/folders/1Hgm7qxmPV9llFNIFODcRuMwmxKu-yh4d <br> 2. https://rishilpatel157.github.io/<br>⚡ Fun fact: As a Software developer spend more time learning as compared to others. <br> LinkedIn Link - https://www.linkedin.com/in/rishilpatel157/<br>
+<br>📄 Know about my experiences
+<br>1. https://drive.google.com/drive/folders/1Hgm7qxmPV9llFNIFODcRuMwmxKu-yh4d <br> 2. https://rishilpatel157.github.io/<br>⚡ Fun fact: As a Software developer spend more time learning as compared to others. <br> LinkedIn Link - https://www.linkedin.com/in/rishilpatel157/<br>
 
 
 ## 🌐 Socials:
